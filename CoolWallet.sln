@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolWallet.Tool", "CoolWallet.Tool\CoolWallet.Tool.csproj", "{BB16AC0C-C3C4-48FF-91F8-AA1E55128856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolWallet.Core", "CoolWallet.Core\CoolWallet.Core.csproj", "{3326E219-8092-4949-9C3B-DBE619F606D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoolWallet.Tests", "CoolWallet.Tests\CoolWallet.Tests.csproj", "{8181DF65-9485-42A8-BF3A-D135192F49EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB16AC0C-C3C4-48FF-91F8-AA1E55128856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB16AC0C-C3C4-48FF-91F8-AA1E55128856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB16AC0C-C3C4-48FF-91F8-AA1E55128856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB16AC0C-C3C4-48FF-91F8-AA1E55128856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3326E219-8092-4949-9C3B-DBE619F606D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3326E219-8092-4949-9C3B-DBE619F606D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3326E219-8092-4949-9C3B-DBE619F606D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3326E219-8092-4949-9C3B-DBE619F606D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8181DF65-9485-42A8-BF3A-D135192F49EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8181DF65-9485-42A8-BF3A-D135192F49EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8181DF65-9485-42A8-BF3A-D135192F49EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8181DF65-9485-42A8-BF3A-D135192F49EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
